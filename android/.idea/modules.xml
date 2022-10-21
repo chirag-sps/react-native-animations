@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnimApp.iml" filepath="$PROJECT_DIR$/.idea/modules/AnimApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AnimApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AnimApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AnimApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AnimApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AnimApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AnimApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AnimApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AnimApp.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1501205952/AnimApp.lottie-react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/-1501205952/AnimApp.lottie-react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1501205952/AnimApp.lottie-react-native.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1501205952/AnimApp.lottie-react-native.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1501205952/AnimApp.lottie-react-native.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1501205952/AnimApp.lottie-react-native.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1501205952/AnimApp.lottie-react-native.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1501205952/AnimApp.lottie-react-native.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/724016152/AnimApp.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/724016152/AnimApp.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/724016152/AnimApp.react-native-linear-gradient.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/724016152/AnimApp.react-native-linear-gradient.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/724016152/AnimApp.react-native-linear-gradient.main.iml" filepath="$PROJECT_DIR$/.idea/modules/724016152/AnimApp.react-native-linear-gradient.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/724016152/AnimApp.react-native-linear-gradient.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/724016152/AnimApp.react-native-linear-gradient.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-697376041/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-697376041/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-697376041/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-697376041/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-697376041/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/-697376041/react-native-gradle-plugin.test.iml" />
+    </modules>
+  </component>
+</project>
