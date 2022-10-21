@@ -19,5 +19,7 @@ Mobile app animations both platform compatible **iOS** & **Android**
 
 ![Layout Animations](demo/animation1.gif)
 ![Layout Animations](demo/animation2.gif)
+![Layout Animations](demo/animation3.gif)
 ![Layout Animations](demo/animation4.gif)
 ![Layout Animations](demo/animation5.gif)
+![Layout Animations](demo/animation6.gif)
